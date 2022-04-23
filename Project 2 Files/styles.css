@@ -58,7 +58,23 @@ body {
     font-size: 40px;
     color: #EFAB00;
 }
+
 #img{
     float: left;
     margin: 0 15px 0 0 ;
+}
+
+.youbelonghere{
+    position: center;
+    font-size: 50px;
+}
+
+.home_body{
+    text-align: center;
+    color: #EFAB00;
+}
+
+.home_text p{
+    font-size: 30px;
+    color: white;
 }
