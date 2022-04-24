@@ -1,5 +1,12 @@
+html{
+    height: 100%;
+  margin: auto;
+  width: 960px;
+}
+
 body {
     background-color: #A7BED3;
+    overflow-x: hidden;
 }
 
 .header{
@@ -77,4 +84,19 @@ body {
 .home_text p{
     font-size: 30px;
     color: white;
+}
+
+.faq_body{
+    color:#EFAB00;
+}
+
+.faq_body a{
+    color: white;
+}
+.faq_body {
+    font-size: 15px;
+}
+
+.faq_body li a{
+    margin-right: 10px;
 }
