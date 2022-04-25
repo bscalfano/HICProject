@@ -100,3 +100,12 @@ body {
 .faq_body li a{
     margin-right: 10px;
 }
+
+.thingstodo img{
+    border: 3px solid #000;
+    border-radius: 2px;
+}
+
+.thingstodo h2, p{
+    font-family: Verdana;
+}
