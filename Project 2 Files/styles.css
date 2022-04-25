@@ -109,3 +109,25 @@ body {
 .thingstodo h2, p{
     font-family: Verdana;
 }
+
+.roomates {
+    width: 550px;
+    float: left;
+    height: auto;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.roomates h2, p, label{
+    font-family: Verdana;
+}
+
+.roomate_example h2, p {
+    font-family: Verdana;
+}
+
+#test {
+    height: 100%;
+    margin-left: 10%;
+    width: auto;
+}
