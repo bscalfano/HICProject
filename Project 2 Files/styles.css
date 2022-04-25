@@ -109,3 +109,17 @@ body {
 .thingstodo h2, p{
     font-family: Verdana;
 }
+
+.courselist option:nth-child(2n){
+    background-color: #ddd;
+}
+
+.courselist select{
+    min-width: 90%;
+    max-width: 90%;
+    min-height: 100%;
+}
+
+.coursereviews h2{
+    font-family: Verdana;
+}
