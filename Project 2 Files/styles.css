@@ -145,3 +145,13 @@ body {
     margin-left: 10%;
     width: auto;
 }
+
+.contactus h2, p, form{
+    font-family: Verdana;
+    text-align: center;
+}
+
+.contactus textarea{
+    min-width: 90%;
+    min-height: 100px;
+}
